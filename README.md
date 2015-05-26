@@ -1,5 +1,5 @@
 Hello!
 
-This python program have no egg use
+This python program has no egg use
 
 Thank you!
