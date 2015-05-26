@@ -22,13 +22,13 @@ def chkchk():
     if(chk[0]=="n" or chk[0]=="N"):
         return 0
     else:
-        print("Oh,hello");
+        print("Oh,hello")
         return 1
 
 
 def douwo():
     if(chkchk()):
-        return;
+        return
     print("...")
     input()
     print("T^T")
@@ -37,7 +37,7 @@ def douwo():
 
 def youdouwo():
     if(chkchk()):
-        return;
+        return
     print("我去")
     input()
     print("不输入方程就算了")
@@ -46,7 +46,7 @@ def youdouwo():
 
 def dabai():
     if(chkchk()):
-        return;
+        return
     print("0=0")
     input()
     print("(●—●)")
